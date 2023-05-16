@@ -1,0 +1,16 @@
+	
+	Escribo esta nota porque siento necesidad de expresar el porque no cumplo con los requerimientos de la entrega.
+	Mi intención no es excusarme, pero es verdad que me han pasado cosas con este proyecto que exceden el conocimiento 
+	que me aportó el curso. Perdí un mes y medio investigando todos los problemas que tuve. Arrancando con Boostrap,
+	que cuando paso el front a angular me dejó de funcionar solamente la clase justify content, el resto de las clases
+	andaba bien y estaba bien utilizado( junto con el display flex). Después con netbeans y spring boot, un mes para 
+	encontrar la configuración correcta, ya que cuando corría el proyecto me tiraba errores o se finalizaba. Después 
+	que logré que corra correctamente, cada tanto no me reconocía algún método y me tiraba mas errores, también problemas 
+	con librerías, por los cuales cuando probaba el crud en postman me daba codigo 200 pero no se reflejaba en la base
+	de datos. A demás, despues de mucho investigar, hacer y reacer, no pude lograr conectar el front y el back. 
+	Por todo esto estoy entregando lo que pude hacer hoy 15/5 a ultima hora.
+
+	Espero puedan tener en consideración mi situación.
+
+
+									Atte, Diego Seffin
